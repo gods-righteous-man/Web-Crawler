@@ -1,0 +1,40 @@
+Name: Gaurav Makasare
+USCID: 7559721394
+Site Crawled: latimes.com
+Number of threads: 7
+
+Fetch Statistics:
+=================
+# fetches attempted: 19987
+# fetches succeeded: 18729
+# fetches failed or aborted: 1258
+
+Outgoing Links:
+===============
+Total urls extracted: 2945200
+# unique URLs extracted: 359825
+# unique URLs within News Site: 1649131
+# unique URLs outside News Site: 1296069
+
+Status Codes:
+=============
+200 OK: 19747
+301 Moved Permanently: 97
+302 Found: 38
+307 Temporary Redirect: 86
+404 Not Found: 19
+
+File Sizes:
+===========
+< 1KB: 26
+1KB ~ <10KB: 203
+10KB ~ <100KB: 1145
+100KB ~ <1MB: 17355
+>= 1MB: 0
+
+File types:
+===========
+image/jpeg :199
+image/gif :2
+text/html :18219
+image/png :309
