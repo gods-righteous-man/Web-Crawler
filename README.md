@@ -8,3 +8,5 @@ The stats.py file is a statistics file which gives insights about the data is sc
 All the crawlReport_latimes.txt is the output of the stats.py file.
 The output from the crawler can be viewed in the fetch.csv and visit.csv files.
 The crawler was run in the eclipse ide which made it easy to load the necessary jar dependencies.
+
+This crawler can also be used for crawling any other site and modifying the parameters inorder to process other type of files too.
